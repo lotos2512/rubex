@@ -1,5 +1,6 @@
 package rubex
 
+
 /*
 #cgo CFLAGS: -I${SRCDIR}/../../../../../clibs/include
 #cgo LDFLAGS: -L${SRCDIR}/../../../../../clibs/lib -lonig
